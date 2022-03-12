@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "pupeteer app",
+  "main": "index.js",
+  "author": "sajib",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
+}
